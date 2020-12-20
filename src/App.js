@@ -1,4 +1,3 @@
-import './App.css';
 import Scheduler from './Scheduler/Scheduler';
 
 function App() {
